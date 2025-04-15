@@ -93,3 +93,7 @@ body{
 .wtree li span:hover + ul li:after, .wtree li span:hover + ul li:before, .wtree li span:focus + ul li:after, .wtree li span:focus + ul li:before {
     border-color: #aaa;
 }
+
+.cke_notification.cke_notification_warning {
+    display: none!important;
+}
